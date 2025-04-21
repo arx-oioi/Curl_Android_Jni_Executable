@@ -1,6 +1,6 @@
 # Curl_Android_Jni_Executable
 
-## โปรเจกต์นี้เป็นการ build curl สำหรับใช้งานบน Android ผ่าน JNI (Java Native Interface) โดยรองรับการรัน curl แบบ executable ภายในแอป Android ด้วย native C/C++ และ NDK
+## โปรเจกต์นี้เป็นการ build curl สำหรับใช้งานบน Android ผ่าน JNI (Java Native Interface) โดยรองรับการรัน curl แบบ executable Android ด้วย native C/C++ และ NDK
 
 ## คุณสมบัติ
 
