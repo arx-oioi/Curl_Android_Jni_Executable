@@ -41,4 +41,4 @@ LOCAL_LDLIBS := -lz
 	
 ```
 
- [OpenSSL & cURL Library for iOS and Android](https://github.com/leenjewel/openssl_for_ios_and_androi)
+ [OpenSSL & cURL Library for iOS and Android](https://github.com/leenjewel/openssl_for_ios_and_android)
