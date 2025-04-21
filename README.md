@@ -1,5 +1,8 @@
 # Curl_Android_Jni_Executable 
 
+[![Android NDK](https://github.com/arx-oioi/Curl_Android_Jni_Executable/actions/workflows/cpp.yml/badge.svg)](https://github.com/arx-oioi/Curl_Android_Jni_Executable/actions/workflows/cpp.yml)
+
+
 ## โปรเจกต์นี้เป็นการ build curl สำหรับใช้งานบน Android ผ่าน JNI (Java Native Interface) โดยรองรับการรัน curl แบบ executable Android ด้วย native C/C++ และ NDK
 
 ## คุณสมบัติ
