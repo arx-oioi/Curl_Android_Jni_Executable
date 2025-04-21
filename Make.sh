@@ -1,0 +1,1 @@
+NDKPATH=/ndk-build
